@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(142, 16, 16);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 40px;
+    gap: 40px;
+
+}
+
+
+#spotifai{
+    width: 80%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+}
+
